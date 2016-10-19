@@ -1,0 +1,8 @@
+10 12 13
+--> navigation length of 50 at 9 6 0
+
+100 150 200
+--> navigation length of 500 at 35 78 32
+
+300 400 450
+--> navigation length of 666 at 0 21 70
